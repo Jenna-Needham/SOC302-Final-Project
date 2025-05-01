@@ -1,4 +1,4 @@
-# 302-Final-Project
+# SOC302-Final-Project
 ## **Instructions**
 To access and utilize the script, open the "needham-gun.law.R" file, which contains the code for my findings. To access the dataset, open the "GSS2022.csv" file. 
 
