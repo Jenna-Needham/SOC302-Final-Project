@@ -2,6 +2,8 @@
 ## **Instructions**
 To access and utilize the script, open the "needham-gun.law.R" file, which contains the code for my findings. To access the dataset, please utilize the [GSS Data Explorer](https://gssdataexplorer.norc.org/variables/vfilter) exclusively using variables and data from 2022. 
 
+To access and read the paper created from the data and supplied code, open the file named, "Symbols of Safety: The Impact of Gun ownership, Regional cultural legacies, and Political identity on Support for Permit Requirements." 
+
 ## **Data**
 This study utilized data from the 2022 General Social Survey (GSS), a nationally representative survey designed to track social trends and public opinion in the U.S. The GSS surveys adults aged 18 and older utilizing a full-probability sampling design, ensuring that the dataset reflects the U.S. population. In 2022, the GSS employed a combination of face-to-face interviews and probability sampling methods to gather responses. Probability sampling methods, such as stratified random sampling, were used to ensure that every non-institutionalized adult in the U.S. had a known and non-zero chance of being selected. This approach helps minimize bias and ensures the sample represents diverse demographic groups, including variations in age, gender, race, and geographic location. The initial sample included 4,149 respondents; however, my dataset consists of only 1,274 cases due to various limitations in the data collection process. 
 
